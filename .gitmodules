@@ -1,0 +1,3 @@
+[submodule "jerryck"]
+	path = jerryck
+	url = https://github.com/ghapereira/blog
